@@ -29,7 +29,7 @@ The password of root, user's name and user's password are all `zynq`.
 
 You may need to build your own BOOT.bin and image.ub based on your SoC architecture since the generated `.hdf/.xsa` file could be different with mine.
 
-You could take my Guide (upload later sometime) as a reference to your installation process. 
+You could take my Guide as a reference to your installation process. 
 
 ## Unsolved warning messages (not hinder the usage, may fix later)
 
